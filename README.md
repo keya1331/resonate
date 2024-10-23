@@ -27,27 +27,6 @@ The Spotify Music Recommendation System aims to recommend songs that align with 
 - **Feature Engineering**: Selects relevant features to build an accurate recommendation model.
 - **Recommendation System**: Recommends songs based on user-input songs using cosine similarity.
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/spotify-music-recommendation.git
-   cd spotify-music-recommendation
-   ```
-
-2. **Install the required libraries**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up Spotify API credentials**:
-   - Create an app on the [Spotify Developer's page](https://developer.spotify.com/).
-   - Save your Client ID and Secret Key.
-   - Set the environment variables:
-     ```bash
-     export SPOTIFY_CLIENT_ID='your_client_id'
-     export SPOTIFY_CLIENT_SECRET='your_client_secret'
-     ```
 
 ## Usage
 
