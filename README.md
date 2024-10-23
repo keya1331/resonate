@@ -116,38 +116,35 @@ The project then pivots to investigate the temporal dimension, visualizing the d
 
 ![top 10](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/cd81f3f5-facb-4d0e-b1da-b60789442352)
 
-Image is for reference only
-
-2. [**Top 10 least popular songs on Spotify**](https://open.spotify.com/embed?uri=spotify:user:jaredlosow:playlist:5RrnynsUSNhTIecRySDYhX&view=list)
  
-3. **Correlation Heatmap between Variable**
+2. **Correlation Heatmap between Variable**
 
  ![Correlation Heatmap between Variable](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/667f1f6e-dc5b-4206-ac4e-ec2cdf705e50)
 
 
-4. **Regression plot - Correlation between Loudness and Energy**
+3. **Regression plot - Correlation between Loudness and Energy**
 
 ![Regression plot - Correlation between Loudness and Energy](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/f4e596f7-f9fc-4fc4-b237-ae227c5027e6)
 
  
  
-5. **Regression plot - Correlation between Popularity and Acousticness**
+4. **Regression plot - Correlation between Popularity and Acousticness**
 ![Regression plot - Correlation between Popularity and Acousticness](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/e9d61bb0-b002-4e61-81bf-33096d02fb9c)
 
  
-6. **Distibution plot - Visualize total number of songs on Spotify since 1992**
+5. **Distibution plot - Visualize total number of songs on Spotify since 1992**
 ![Distibution plot - Visualize total number of songs on Spotify since 1992](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/39c4e1df-26fb-48a4-b6c3-339b2f6aa6e0)
 
  
-7. **Change in Duration of songs wrt Years**
+6. **Change in Duration of songs wrt Years**
  ![Change in Duration of songs wrt Years](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/e92c1eb1-9368-464f-b5d2-9b877d32e369)
 
-8. **Duration of songs in different Genres**
+7. **Duration of songs in different Genres**
  
  
  ![Duration of songs in different Genres](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/0fae7e69-6577-4696-ab18-96ffbf1a4777)
 
-9. **Top 5 Genres by Popularity**
+8. **Top 5 Genres by Popularity**
 ![Top 5 Genres by Popularity](https://github.com/Gokul-Raja84/Spotify-Data-Analysis/assets/106546785/7ec5edd7-a45e-425a-9795-d5d5352947e1)
 
 
