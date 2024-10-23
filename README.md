@@ -168,9 +168,3 @@ Kaggle Spotify Datasets:
 <code>[Spotify Tracks and Artists](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset)</code>  
 <code>[Spotify Tracks and Artists](https://www.kaggle.com/datasets/gokulraja84/spotify-artists-and-tracks-datasets)</code>   
 
-
-#### Acknowledgments :
-
-<> The project structure and code implementation were guided by various online resources and tutorials.
-
-<> Feel free to explore the project, modify it according to your needs, and experiment with different approaches to improve the data analysis and data visualization.
