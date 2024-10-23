@@ -49,7 +49,7 @@ The Spotify Music Recommendation System aims to recommend songs that align with 
                                                               client_secret=os.environ["SPOTIFY_CLIENT_SECRET"]))
    ```
 
-3. **Define functions to fetch song data and calculate recommendations** (full code provided in the repository).
+3. **Define functions to fetch song data and calculate recommendations**.
 
 4. **Get song recommendations**:
    ```python
