@@ -1,7 +1,6 @@
-<h1 align="center">
+<h1>
   resonate — music recommendation & data analysis
 </h1>
----
 
 ## what it is  
 a personalized recommendation system built on spotify data 
