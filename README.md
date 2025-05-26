@@ -1,5 +1,5 @@
 <h1>
-  resonate — music recommendation & data analysis
+  resonate - music recommendation & data analysis
 </h1>
 
 ## what it is  
