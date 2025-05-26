@@ -1,5 +1,6 @@
-##resonate — music recommendation & data analysis
-  
+<h1 align="center">
+  resonate — music recommendation & data analysis
+</h1>
 ---
 
 ## what it is  
